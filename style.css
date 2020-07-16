@@ -1,7 +1,13 @@
-.verticalhorizontal {
-    display: table-cell;
-    height: 300px;
-    text-align: center;
-    width: 300px;
-    vertical-align: middle;
+@import url(//fontlibrary.org/face/trueno);
+
+body {
+  font-family: "TruenoRegular",sans-serif;
+  font-size: 70px;
+  color: #589632;
+  font-weight: 500;
+  display: table-cell;
+  height: 300px;
+  text-align: center;
+  width: 300px;
+  vertical-align: middle;
 }
