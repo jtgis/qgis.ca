@@ -1,0 +1,7 @@
+<style>
+.verticalcenter {
+    display: table-cell;
+    height: 400px;
+    vertical-align: middle;
+}
+</style>
