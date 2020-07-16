@@ -2,12 +2,14 @@
 
 body {
   font-family: "TruenoRegular",sans-serif;
-  font-size: 70px;
+  font-size: 50px;
   color: #589632;
   font-weight: 500;
-  display: table-cell;
-  height: 300px;
   text-align: center;
-  width: 300px;
-  vertical-align: middle;
+  margin: auto;
+  line-height: 1.8;
+}
+
+img {
+  max-width:20%;
 }
